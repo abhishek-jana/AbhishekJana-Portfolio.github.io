@@ -8,9 +8,9 @@ excerpt: "Machine Learning, Data Science, Deep Learning"
 mathjax: "true"
 ---
 
-# Supervised Learning:
+## Supervised Learning Projects:
 
-## Project1: Car Price Detection
+### Project1: Car Price Detection
 
 This project predicts the price of a car based on its:
 * Mode (Individual/Dealer)
@@ -21,8 +21,9 @@ This project predicts the price of a car based on its:
 * Mileage
 
 
-# Unsupervised Learning
-## Project2: Sentimental Analysis
+## Unsupervised Learning Projects
+
+### Project2: Sentimental Analysis
 
 * Purpose: Predict the sentiment of a text/review ,e.g., positive or negative.
 * Dataset used for training : Amazon, Yelp, IMDB reviews
