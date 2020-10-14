@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2018-01-28
+date: 2020-08-14
 tags: [data wrangling, data science, machine learning,deep learning]
 header:
   image: "/images/perceptron/percept.jpg"
