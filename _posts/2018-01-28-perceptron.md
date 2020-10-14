@@ -8,7 +8,7 @@ excerpt: "Data Wrangling, Data Science, Car Price"
 mathjax: "true"
 ---
 
-# Projects
+# Supervised Learning:
 
 ## Project1: Car Price Detection
 
@@ -21,6 +21,7 @@ This project predicts the price of a car based on its:
 * Mileage
 
 
+# Unsupervised Learning
 ## Project2: Sentimental Analysis
 
 * Purpose: Predict the sentiment of a text/review ,e.g., positive or negative.
