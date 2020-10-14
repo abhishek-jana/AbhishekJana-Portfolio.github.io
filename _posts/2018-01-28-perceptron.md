@@ -1,10 +1,10 @@
 ---
 title: "Projects"
 date: 2018-01-28
-tags: [data wrangling, data science, car price]
+tags: [data wrangling, data science, machine learning,deep learning]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Car Price"
+excerpt: "Machine Learning, Data Science, Deep Learning"
 mathjax: "true"
 ---
 
