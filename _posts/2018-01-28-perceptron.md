@@ -1,63 +1,28 @@
 ---
-title: "Data Wrangling Project"
+title: "Projects"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [data wrangling, data science, car price]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Data Wrangling, Data Science, Car Price"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Projects
 
-## H2 Heading
+## Project1: Car Price Detection
 
-### H3 Heading
+This project predicts the price of a car based on its:
+* Mode (Individual/Dealer)
+* Transmission (Manual/Automatic)
+* Fuel type (Petrol/Diesel/CNG)
+* Number of people who owned the car before (0-3)
+* Age of the car
+* Mileage
 
-Here's some basic text.
 
-And here's some *italics*
+## Project2: Sentimental Analysis
 
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+* Purpose: Predict the sentiment of a text/review ,e.g., positive or negative.
+* Dataset used for training : Amazon, Yelp, IMDB reviews
+* Accuracy: 80 percent
