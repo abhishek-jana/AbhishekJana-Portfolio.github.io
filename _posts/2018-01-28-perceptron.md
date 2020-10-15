@@ -4,27 +4,25 @@ date: 2020-08-14
 tags: [data wrangling, data science, machine learning,deep learning]
 header:
   image: "/images/perceptron/data_science1.jpg"
-excerpt: "Machine Learning, Data Science, Deep Learning"
+excerpt: "Machine Learning, Data Science, Deep Learning, Data Wrangling"
 mathjax: "true"
 ---
 
-## Supervised Learning Projects:
+## Projects:
 
-### Project1: Car Price Detection
+### Computer Pointer Controller
 
-This project predicts the price of a car based on its:
-* Mode (Individual/Dealer)
-* Transmission (Manual/Automatic)
-* Fuel type (Petrol/Diesel/CNG)
-* Number of people who owned the car before (0-3)
-* Age of the car
-* Mileage
+* Building a Computer Pointer Controller app is built using Intel OpenVINO toolkit. 
+* This app is use to control mouse pointer using our eye and head movement. You can use a recorded video stream or a webcam directly for the input.
+
+### People Counter App
+
+* The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. 
+* The app detects people in a designated area, provided the number of people in the frame, average duration of people in frame, and total count.
+
+### Image Classification
+
+* This is an image classification project which identifies between Hyena, Lion, Leopard and Tiger. 
+* This code was build using fast.ai libraryt
 
 
-## Unsupervised Learning Projects
-
-### Project2: Sentimental Analysis
-
-* Purpose: Predict the sentiment of a text/review ,e.g., positive or negative.
-* Dataset used for training : Amazon, Yelp, IMDB reviews
-* Accuracy: 80 percent
