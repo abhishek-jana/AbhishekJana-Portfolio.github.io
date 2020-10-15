@@ -9,6 +9,6 @@ header:
 
 
 
-<p>Here's a downloadable version of my <a href="Abhishek_Jana_resume.pdf">CV</a>!</p>
+<p>Here's a downloadable version of my <a href="https://github.com/abhishek-jana/abhishek-jana.github.io/raw/master/Abhishek_Jana_resume.pdf">CV</a>!</p>
 
 
