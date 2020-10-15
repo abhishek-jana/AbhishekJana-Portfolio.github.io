@@ -11,4 +11,4 @@ header:
 
 <p>Here's a downloadable version of my <a href="https://github.com/abhishek-jana/abhishek-jana.github.io/raw/master/Abhishek_Jana_resume.pdf">CV</a>!</p>
 
-
+![CV](/images/Abhishek_Jana_resume.jpg "Title")
