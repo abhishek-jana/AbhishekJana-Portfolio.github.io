@@ -2,8 +2,7 @@
 permalink: /resume/
 title: "Resume"
 author_profile: true
-header:
-  image: "Abhishek_Jana_resume.pdf"
+
 ---
 
-[CV](Abhishek_Jana_resume.pdf)
+[CV](https://github.com/abhishek-jana/abhishek-jana.github.io/blob/master/Abhishek_Jana_resume.pdf)
