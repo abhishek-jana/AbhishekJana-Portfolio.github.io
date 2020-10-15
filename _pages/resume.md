@@ -6,3 +6,4 @@ author_profile: true
 ---
 
 [CV](https://github.com/abhishek-jana/abhishek-jana.github.io/blob/master/Abhishek_Jana_resume.pdf)
+<embed src= "Abhishek_Jana_resume.pdf" width= "800" height= "1100">
