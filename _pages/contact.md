@@ -7,5 +7,5 @@ header:
   image: "/images/ds3.jpeg"
 ---
 
-* *Email: iiserabhishek@gmail.com
-* *Ph.No- 7854911702
+* *Email: iiserabhishek@gmail.com*
+* *Ph.No- 7854911702*
