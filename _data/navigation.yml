@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+  - title: "Resume"
+    url: /resume/
   - title: "Projects"
     url: /data-science/
   # - title: "About"
