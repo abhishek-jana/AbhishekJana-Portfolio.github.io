@@ -6,3 +6,4 @@ header:
   image: "Abhishek_Jana_resume.pdf"
 ---
 
+[CV](Abhishek_Jana_resume.pdf)
